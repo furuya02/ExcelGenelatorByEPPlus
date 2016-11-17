@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D21D372B-F050-469B-9537-4C8B1A4DF06D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExcelGenelatorByEPPlus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExcelGenelatorByEPPlus/Program.cs">
+    <Files>
+      <File FileName="ExcelGenelatorByEPPlus/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
